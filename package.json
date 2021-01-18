@@ -1,6 +1,6 @@
 {
   "name": "@definejs/mobile-dialog",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,8 +13,8 @@
     "url": "https://github.com/definejs/mobile-dialog.git"
   },
   "dependencies": {
-    "@definejs/dialog": "^0.1.6",
-    "@definejs/mobile-masker": "^0.1.0",
-    "@definejs/scroller": "^0.1.2"
+    "@definejs/dialog": "^1.0.0",
+    "@definejs/mobile-masker": "^1.0.0",
+    "@definejs/scroller": "^1.0.0"
   }
 }
